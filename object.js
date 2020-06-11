@@ -5,6 +5,8 @@
 //nearly all objects in js are instances of Object
 //object = {key : value };
 
+//dynamically typed language
+
 //1. Literals and properties
 
 const obj1 = {}; // object literal syntax
